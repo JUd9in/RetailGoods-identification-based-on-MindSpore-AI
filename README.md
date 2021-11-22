@@ -1,8 +1,10 @@
 # RetailGoods-identification-based-on-MindSpore-AI
 为了方便薅羊毛而开发的商品识别系统~
 ## 可通过.py脚本中的cfg进行参数修改训练行为。cfg中的参数如下：
-### **data_path**         训练数据集路径，如果是zip文件需要解压
-**test_path**         测试数据集路径，如果是zip文件需要解压
+**data_path**         训练数据集路径，如果是zip文件需要解压  
+
+**test_path**         测试数据集路径，如果是zip文件需要解压  
+
 **data_size**         数据量大小   
 **HEIGHT**            图片高度
 **WIDTH**             图片宽度
